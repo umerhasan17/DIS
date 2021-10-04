@@ -19,7 +19,11 @@ It is **strongly recommended** to do the exercises, as the final exam will be si
 
 | Platform | Description  |
 |:---------|:-----------|
+<<<<<<< HEAD
 Zoom | **Mondays [13:15-15:00]**: Live Webinar, QnA, In-Lecture Quizzes [[link](https://epfl.zoom.us/s/65956515720)] |
+=======
+Zoom | **Mondays [13:15-15:00]**: Live Webinar, QnA, In-Lecture Quizzes [[link](https://epfl.zoom.us/j/65956515720)] |
+>>>>>>> aa3453d7d496b03b6877675fb8eb753a821e0c9e
 Zoom |  **Mondays [15:15-16:00]**: Live Exercise Session, Communication Hub [[link](https://epfl.zoom.us/j/69435562992)] |
 SwitchTube | Recorded Lectures [[link](https://tube.switch.ch/channels/zireVjctlC)] |
 Piazza	| QnA [[link](https://piazza.com/epfl.ch/fall2021/cs423)] | 
@@ -32,6 +36,7 @@ Moodle | Mock Midterm, Mock Quizzes, Final Exam | <!-- [[link](https://moodle.ep
 | Date      | Exam        | Area                        | Material                                                           |
 |:---------:|:-----------:|:----------------------------|:-------------------------------------------------------------------|
 | ~~20/09~~ | ~~~~        | ~~~~                        | ~~~~                                                               |
+<<<<<<< HEAD
 | 27/09     | -           | Introduction                | Course Information - Overview [[slides][1p], [lab][1l]]            |
 | 04/10     | -           | Information Retrieval       | Basic Text Retrieval Models <!-- [[slides][2p], [lab][2l]]  -->             |
 | 11/10     | -           |                             | Probabilistic Retrieval and Relevance Feedback <!-- [[slides][3p], [lab][3l]]  -->|
@@ -45,6 +50,21 @@ Moodle | Mock Midterm, Mock Quizzes, Final Exam | <!-- [[link](https://moodle.ep
 | 30/11     | -           | From Documents to Knowledge | Semantic Web <!-- [[slides][10p], [lab][10l]]  -->                |
 | 07/12     | **Quiz 2**  |                             | Entity and Information Extraction <!-- [[slides][11p], [lab][11l]]   --> |
 | 14/12     | -           |                             | Inference for Knowledge Graphs <!-- [[slides][12p], [lab][12l]]     -->  |
+=======
+| 27/09     | -           | Introduction                | Course Information - Overview [[slides][1p], [lab][1l]] |
+| 04/10     | -           | Information Retrieval       | Basic Text Retrieval Models [[slides][2p], [lab][2l]] |
+| 11/10     | -           |                             | Probabilistic Retrieval and Relevance Feedback <!-- [[slides][3p], [lab][3l]]  -->|
+| 18/10     | **Midterm** |                             | Indexing and Distributed retrieval <!-- [[slides][4p], [lab][4l]]   -->|
+| 25/10     | -           |                             | Word Embeddings <!-- [[slides][5p], [lab][5l]] --> |
+| 01/11     | -           |                             | Link-based Ranking <!-- [[slides][5p], [lab][5l]] --> |
+| 08/11     | -           | Data Mining                 | Graph Mining <!-- [[slides][6p], [lab][6l]]   -->               |
+| 15/11     | **Quiz 1**  |                             | Document Classification<!--  [[slides][7p], [lab][7l]]    --> |
+| 22/11     | -           |                             | Recommender Systems <!-- [[slides][8p], [lab][8l]]  -->                          |
+| 29/11     | -           |                             | Association Rules <!-- [[slides][9p], [lab][9l]]   -->            |
+| 06/12     | -           | From Documents to Knowledge | Semantic Web <!-- [[slides][10p], [lab][10l]]  -->                |
+| 13/12     | **Quiz 2**  |                             | Entity and Information Extraction <!-- [[slides][11p], [lab][11l]]   --> |
+| 20/12     | -           |                             | Inference for Knowledge Graphs <!-- [[slides][12p], [lab][12l]]     -->  |
+>>>>>>> aa3453d7d496b03b6877675fb8eb753a821e0c9e
 
 
 ## Continuous Evaluation
